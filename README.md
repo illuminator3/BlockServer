@@ -12,5 +12,3 @@
 
 #### illuminator3
 
-#### GodEcho
-
