@@ -1,16 +1,7 @@
 # BlockServer (IRC Server)
 
-## Dependencies
-
-### None
+As the BlockClient is no more I am going to release this repository to the public. Do with it whatever you want.
 
 ## License
 
-### None
-
-## Contributors
-
-#### illuminator3
-
-#### GodEcho
-
+Yea.... no license
